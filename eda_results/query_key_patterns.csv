@@ -1,0 +1,14 @@
+query_keys,count
+"Amount,CalendarName,Date,NavType,Op,Type",12577
+"Amount,CalendarName,Date,DoneURL,ID,NavType,Op,Type",2541
+"Amount,CalendarName,Date,DesiredOp,DesiredParams,NavType,Op,Type",392
+"CalendarName,Date,EventID",298
+"Amount,CalendarName,CookieParams,Date,NavType,Op,Type",218
+"Amount,CalendarName,Date,FromUserPage,NavType,Op,Type",65
+"Amount,CalendarName,NavType,Op,Type",50
+,33
+"CalendarName,Op",25
+"CalendarName,amp;Amount,amp;Date,amp;NavType,amp;Op,amp;Type",11
+Op,4
+"Amount,CalendarName,DesiredOp,DesiredParams,NavType,Op,Type",3
+"CalendarName,amp;Amount,amp;Date,amp;DesiredOp,amp;DesiredParams,amp;NavType,amp;Op,amp;Type",1
