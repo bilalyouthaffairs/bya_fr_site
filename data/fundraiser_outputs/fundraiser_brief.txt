@@ -1,0 +1,18 @@
+Bilal Masjid calendar history (Wayback archive) fundraiser brief
+
+Total unique events in dataset: 3187
+Date range: 2015-03-01 to 2026-10-31
+
+Year by year summary (unique events)
+2015: 209 events across 9 months, about 23.2 per month. Venue bookings: 210. Avg venues per event: 1.0. Change vs prior year: nan%. Note: Partial year coverage in archive.
+2016: 319 events across 12 months, about 26.6 per month. Venue bookings: 322. Avg venues per event: 1.01. Change vs prior year: 52.6%.
+2017: 191 events across 11 months, about 17.4 per month. Venue bookings: 197. Avg venues per event: 1.03. Change vs prior year: -40.1%.
+2018: 332 events across 12 months, about 27.7 per month. Venue bookings: 340. Avg venues per event: 1.02. Change vs prior year: 73.8%.
+2019: 430 events across 12 months, about 35.8 per month. Venue bookings: 435. Avg venues per event: 1.01. Change vs prior year: 29.5%.
+2020: 336 events across 12 months, about 28.0 per month. Venue bookings: 342. Avg venues per event: 1.02. Change vs prior year: -21.9%.
+2021: 39 events across 12 months, about 3.2 per month. Venue bookings: 39. Avg venues per event: 1.0. Change vs prior year: -88.4%. Note: Low activity year or events moved off calendar.
+2022: 144 events across 12 months, about 12.0 per month. Venue bookings: 154. Avg venues per event: 1.07. Change vs prior year: 269.2%.
+2023: 442 events across 12 months, about 36.8 per month. Venue bookings: 529. Avg venues per event: 1.2. Change vs prior year: 206.9%.
+2024: 353 events across 12 months, about 29.4 per month. Venue bookings: 581. Avg venues per event: 1.65. Change vs prior year: -20.1%.
+2025: 351 events across 11 months, about 31.9 per month. Venue bookings: 447. Avg venues per event: 1.27. Change vs prior year: -0.6%.
+2026: 41 events across 4 months, about 10.2 per month. Venue bookings: 43. Avg venues per event: 1.05. Change vs prior year: -88.3%. Note: Partial year coverage in archive.
